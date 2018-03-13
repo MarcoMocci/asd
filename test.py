@@ -4,3 +4,4 @@ def test():
 #does the linter like this line
 class stuff(object):
     pass
+,
